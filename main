@@ -1,5 +1,9 @@
 #!/usr/bin/python3
 
-print("This all over again")
-print("How does this work exactly?")
-print('Will this actually work for complex applications?')
+print('what is happening')
+
+def main(msg):
+    print(msg)
+
+main('Does this work?')
+
