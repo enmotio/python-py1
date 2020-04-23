@@ -1,2 +1,2 @@
 # python-py1
-test
+This is a test project for learning python and how to use git.
