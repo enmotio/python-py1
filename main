@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-print('what is happening')
+print('what is happening. What am I learning?')
 
 def main(msg):
     print(msg)
